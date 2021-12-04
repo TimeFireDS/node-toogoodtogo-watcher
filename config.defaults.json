@@ -5,7 +5,7 @@
       "password": "Password of your TooGoodToGo account."
     },
     "session": {},
-    "deviceType": "IOS",
+    "deviceType": "ANDROID",
     "headers": {
     },
     "pollingIntervalInMs": 30000,
